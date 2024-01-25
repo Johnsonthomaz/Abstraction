@@ -2,6 +2,7 @@ package com;
 
 class BankImpl implements Bank{
 	int balance =5000;
+	//
 
 	@Override
 	public void deposit(int amount) {
